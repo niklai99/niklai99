@@ -1,7 +1,7 @@
 # Nicolò Lai 
 ## Undergraduate Physics Student
 
-### Hi there! :smiley:
+### Hi there! :smiley: Welcome to my GitHub profile!
 
 ### :point_right: Basic informations:
 I was born
