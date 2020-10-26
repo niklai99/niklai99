@@ -1,7 +1,7 @@
 # Nicolò Lai 
 ## Undergraduate Physics Student
 
-### Hi there :mortar_board:
+### Hi there :smiley:
 
 #### Basic informations:
 I was born
@@ -11,13 +11,13 @@ I was born
 Currently living in 
 * Padua (PD), Italy
 
-#### Briefly:
+#### Briefly :zap::
 
 I'm an undergraduate physics student, currently attending the University of Padua. During the years of studies, I developed a strong interest in data
 analysis, and data science more generally, thanks to physics experiments carried out in the laboratory, statistics courses, and most of all to data
 analysis work done by some professors at LHC (CERN).
 
-#### What the B.Sc. in Physics taught me:
+#### What the B.Sc. in Physics taught me:mortar_board::
 
 The bachelor’s degree has formed my skills in physics, mathematics and statistics. Also, it has allowed me to acquire a mindset aimed at
 solving a wide range of complicated problems (not only concerning physics) by exploiting different skills at the same time. Through the laboratory
