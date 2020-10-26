@@ -1,8 +1,6 @@
 # Nicolò Lai 
 ## Undergraduate Physics Student
 
-<br/><br/>
-
 ### Hi there :mortar_board:
 I was born
 *  on April 30th, 1999 
