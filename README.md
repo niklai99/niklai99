@@ -36,7 +36,7 @@ estimation of relevant parameters):
 
     + [House Prices EDA](https://github.com/niklai99/House-Prices)
 
-* Laboratory reposrt relating to experiments carried out during the *third* year of the bachelor’s degree (still in progress until May/June 2021)
+* Laboratory reports relating to experiments carried out during the *third* year of the bachelor’s degree (still in progress until May/June 2021)
 
     + [3rd Year Physics Laboratory Reports](https://github.com/niklai99/physics_laboratory_2020_2021)
 
