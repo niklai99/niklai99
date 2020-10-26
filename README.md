@@ -1,5 +1,12 @@
-### Hi there :mortar_board:
+# Nicolò Lai 
+## Undergraduate Physics Student
 
+<br/><br/>
+
+### Hi there :mortar_board:
+I was born
+*  on April 30th, 1999 
+* in Treviso (TV), Italy
 
 I'm an undergraduate physics student, currently attending the University of Padua. During the years of studies I developed a strong interest in data
 analysis, and data science more generally, thanks to physics experiments carried out in the laboratory, statistics courses, and most of all to data
