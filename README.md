@@ -25,6 +25,14 @@ experiences, I have also developed the ability to work in a team and to write la
 
 ### :boom: Cool Stuff on my GitHub:
 
+* Laboratory reports relating to experiments carried out during the *third* year of the bachelor’s degree (still in progress until May/June 2021)
+
+    + [3rd Year Physics Laboratory Reports](https://github.com/niklai99/physics_laboratory_2020_2021)
+ 
+ * Triple Pendulum computational physics project
+
+    + [Triple Pendulum](https://github.com/niklai99/TriplePendulum)
+
 * Laboratory reports relating to experiments carried out during the *second* year of the bachelor’s degree (sharing a statistical data analysis for the
 estimation of relevant parameters):
 
@@ -35,10 +43,6 @@ estimation of relevant parameters):
 * Kaggle "*House Prices: Advanced Regression Techniques*" exploratory data analysis:
 
     + [House Prices EDA](https://github.com/niklai99/House-Prices)
-
-* Laboratory reports relating to experiments carried out during the *third* year of the bachelor’s degree (still in progress until May/June 2021)
-
-    + [3rd Year Physics Laboratory Reports](https://github.com/niklai99/physics_laboratory_2020_2021)
 
 * Definitely other cool repositories! Check out the whole list
 
