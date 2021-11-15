@@ -41,16 +41,13 @@ stream with a reference dataset.
 
     + [3rd Year Physics Laboratory Reports](https://github.com/niklai99/physics_laboratory_2020_2021)
  
+* Kaon and Lambda particle reconstruction using advanced C++ developed during the Object Oriented C++ course:
 
-* Laboratory reports relating to experiments carried out during the *second* year of the bachelor’s degree (only the pdf
-  file of the report):
+    + [Object Oriented C++](https://github.com/niklai99/Object-Oriented-Cpp)
 
-
-    + [Inductance Estimation](https://github.com/niklai99/Inductance-Estimation)
-    + [Capacity Estimation](https://github.com/niklai99/Capacity-Estimation)
-    + [Diffraction and Interference of Light](https://github.com/niklai99/Diffraction-Interference)
-
-
+* Nuclide matriculation and SEMF fit (not finished): visualizing and testing basic Nuclear Physics concepts:
+    
+    + [Nuclide Analysis](https://github.com/niklai99/nucl-matriculation)
 
 
 ### :email: Contacts:
