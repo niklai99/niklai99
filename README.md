@@ -1,5 +1,5 @@
 # Nicolò Lai 
-## Undergraduate Physics Student
+## M.Sc. in Physics of Data @ UniPd
 
 ### Hi there! :smiley: Welcome to my GitHub profile!
 
@@ -13,7 +13,7 @@ Currently living in
 
 ### :zap: Briefly:
 
-Undergraduate physics student, graduating in December 2021. 
+Studying Physics of Data. Graduated in Physics @ UniPd in 2021. 
 
 Strong interest and skills in data science and statistics applied to both physics and finance.
 
