@@ -42,7 +42,7 @@ The Bachelor's degree in Physics has helped me to develop a strong foundation in
   
   #### (Jan 2023 - Feb 2023)
   
-The goal of this project is to improve the unsupervised multi-class classification of jets in high-energy physics experiments using a modified architecture of the existing state-of-the-art unsupervised anomaly detection framework based on graph convolutional autoencoder. The current conventional machine learning techniques for jet physics suffer from limitations in terms of bias and generalization because they rely on simulated events for training. Hence, the proposed model utilizes the particle cloud representation of jets to overcome these limitations.
+  The goal of this project is to improve the unsupervised multi-class classification of jets in high-energy physics experiments using a modified architecture of the existing state-of-the-art unsupervised anomaly detection framework based on graph convolutional autoencoder. The current conventional machine learning techniques for jet physics suffer from limitations in terms of bias and generalization because they rely on simulated events for training. Hence, the proposed model utilizes the particle cloud representation of jets to overcome these limitations.
 The proposed model's results are promising, providing insights into the potential for applying convolutional graph autoencoders for unsupervised multi-class jet tagging. Although the model lags behind state-of-the-art unsupervised multi-class classification models, the study's results pave the way for further research in this area.
 
 * ### [Energy reconstruction in JUNO with classical and quantum machine learning methods](https://github.com/niklai99/qcnn4juno) 
