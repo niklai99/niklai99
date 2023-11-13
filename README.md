@@ -2,14 +2,14 @@
 
 ## :zap: Briefly:
 
-As a Physics of Data student at the University of Padova with a background in Physics, I am passionate about exploring the intersection of High Energy Physics and Machine Learning. My interests include data analysis, statistics, particle detectors, and data acquisition electronics. I am eager to apply these skills and continue learning in order to pursue a research career in high energy physics, where I can make a meaningful impact on our understanding of the fundamental nature of the universe. I am a highly motivated, analytical thinker, and team player with strong problem-solving skills.
+As a Ph.D. candidate in Physics at the University of Padova, my journey continues at the exciting intersection of High Energy Physics and Machine Learning. Building on my foundation in Physics of Data and my experience in data analysis, statistics, particle detectors, and data acquisition electronics, I am now deeply involved in the CMS collaboration at the CERN LHC. My current work is centered around the search for New Physics phenomena, leveraging cutting-edge machine learning-based statistical anomaly detection techniques. 
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ](https://www.cplusplus.com)  [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+<!-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) [![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ](https://www.cplusplus.com)  [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)  [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)  [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niklai99)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/niklai99) -->
 
 
 
@@ -24,12 +24,13 @@ Currently living in
 
 ## :mortar_board: M.Sc. in Physics of Data @ UniPd
 
-The Physics of Data master's degree program provides me with the opportunity to enhance my machine learning and data analysis skills as I advance my career in particle physics. This program adopts a project-based approach, which allows me to gain both a theoretical understanding and practical experience in applying data science tools to high energy physics problems. In addition, it provides a solid foundation to support my research journey in this field.
+The Physics of Data master's degree program provided me with the opportunity to enhance my machine learning and data analysis skills while I advanced my career in particle physics. This program adopted a project-based approach, which allowed me to gain both a theoretical understanding and practical experience in applying data science tools to high energy physics problems. In addition, it provided a solid foundation to support my research journey in this field.
 
 ## :mortar_board: B.Sc. in Physics @ UniPd:
 
 The Bachelor's degree in Physics has helped me to develop a strong foundation in physics, mathematics, and statistics. Furthermore, it has instilled in me a problem-solving mindset, enabling me to tackle complex challenges effectively by utilizing my skills in multiple disciplines simultaneously.
 
+<!-- 
 ## :boom: Recent projects:
 
 * ### Real-time data quality monitoring using kernel methods and GPU computing
@@ -62,7 +63,7 @@ The proposed model's results are promising, providing insights into the potentia
   #### (Jul 2021 - Dec 2021)
   
   I developed a data quality monitoring procedure using deep neural networks to detect and identify any anomalies in a batch of data, indicating detector malfunction. I adapted traditional hypothesis testing and goodness of fit techniques for a more flexible approach and tested the algorithm using a small-scale replica of a CMS drift tubes detector. This improved the accuracy and reliability of data produced by the detector and has the potential to enhance performance monitoring and maintenance in similar high-energy physics experiments.
-
+ -->
 
 ## :email: Contacts:
 
