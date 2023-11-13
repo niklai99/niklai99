@@ -66,7 +66,8 @@ The Bachelor's degree in Physics has helped me to develop a strong foundation in
 
 ## :email: Contacts:
 
-* E-Mail: lai.nicolo99@gmail.com
+* E-Mail: nicolo.lai@cern.ch
 * LinkedIn: [niklai99](https://www.linkedin.com/in/niklai99/)
+* Twitter: [@nikklai99](https://twitter.com/nikklai99)
 
 
